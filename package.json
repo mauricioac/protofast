@@ -1,0 +1,25 @@
+{
+  "name": "protofast",
+  "version": "1.0.0",
+  "description": "Prototype fast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mauricioac/protofast.git"
+  },
+  "keywords": [
+    "prototype",
+    "gulp",
+    "sass",
+    "livereload"
+  ],
+  "author": "Maurício André Cinelli <mauricio.andre.cinelli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauricioac/protofast/issues"
+  },
+  "homepage": "https://github.com/mauricioac/protofast#readme"
+}
